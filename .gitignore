@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+rag_db/
+venv/
+*.pyc
+.DS_Store
+.env
